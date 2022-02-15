@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: kubernetes-demotwo
-          image: kubernetes-demotwo:1.0
+          image: ganeshraghava/test:test
           ports:
             - containerPort: 8080
 
